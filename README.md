@@ -2,7 +2,7 @@
 
 A modern cloud-based data engineering and analytics pipeline built using Microsoft Azure services following the **Medallion Architecture (Bronze–Silver–Gold)** approach.
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42be93de-3248-4145-a2f5-b8ab78575a03" />---
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42be93de-3248-4145-a2f5-b8ab78575a03" />
 ---
 
 # 📌 Overview
@@ -296,7 +296,3 @@ The **Azure Medallion Lakehouse Data Pipeline** provides a scalable and efficien
 
 ---
 
-# 👨‍💻 Author
-
-**Tarun D**
-Data Engineering | AI & Analytics | Cloud Solutions
